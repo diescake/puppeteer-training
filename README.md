@@ -1,6 +1,6 @@
 # puppeteer-training
 
-Training for Puppeteer
+Fetch several metrics from specified GitHub repository.
 
 ## Usage
 
