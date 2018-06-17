@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diescake/puppeteer-training.git",
+  "author": "diescake <daisuke.kondo@access-company.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
